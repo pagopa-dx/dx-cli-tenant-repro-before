@@ -1,0 +1,17 @@
+{
+  "name": "dx-cli-tenant-repro-before",
+  "private": true,
+  "description": "DX CLI tenant-qualified environment CI reproduction",
+  "license": "UNLICENSED",
+  "type": "module",
+  "devDependencies": {
+    "@nx/eslint": "^24.0.2",
+    "@nx/js": "^24.0.2",
+    "@nx/vitest": "^24.0.2",
+    "@pagopa/nx-docker": "gh:^0.1.8",
+    "@pagopa/nx-terraform": "gh:^0.5.15",
+    "nx": "24.0.2",
+    "oxfmt": "^0.75.0"
+  },
+  "packageManager": "pnpm@11.28.9+sha512.35421cea2720eca3f5ad722b67e8ef18f4d3cd4745ed2fcfeb0dc288d4e9437fad3870d91ee6e83f268f0f6f7e0f62723317b19617bb45ee4333172ef51159f8"
+}
